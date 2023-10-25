@@ -1,0 +1,16 @@
+  .todo-list ul {
+    list-style: none;
+    padding: 0;
+    width: 85vw;
+  }
+  .todo-list li.done {
+    color: #888;
+    text-decoration: line-through;
+  }
+  .todo-list .buttons{
+    display: flex;
+  }
+  .todo-list .buttons button {
+    margin-left: 10px;
+  }
+  
